@@ -1,11 +1,11 @@
 Course Title: Physics II
-Course Code: PHY 123
+Course Cose: PHY 123
 
 
 Submitted to:
 Safwan Uddin Ahmed
 Assistant Professor & Head
-Department of Electrical & Electronic Engineering
+Department of Electrical & Electrical Engineering
 Metropolitan University, Sylhet
 
 
@@ -17,9 +17,6 @@ Submitted by:
 
 Batch: CSE-63
 Section: B
-Department: Computer Science and Engineering
-Institution: Metropolitan University, Sylhet
-
-====================>
+Department: Computer Science & Engineering
 
 Submission Date: 4 December 2025
