@@ -21,11 +21,11 @@ int main()
 
 
 
-    theta_rad = theta*3.14159265/180.0;
+    theta_rad = theta*3.14159265/180.0; //converting angle from degree to rad
 
-    d = d*1000.0;
+    d = d*1000.0; //converting d from micrometer to nanometer
 
-    wavelength = (d*sin(theta_rad))/m;
+    wavelength = (d*sin(theta_rad))/m; //calculating wavelength
 
     printf("\n\nWavelength: %.2f nm\n",wavelength);
 
