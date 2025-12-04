@@ -1,29 +1,48 @@
-Course Title: Physics II  
-Course Cose: PHY 123  
-
-==============================  
-
-Submitted to:  
-Safwan Uddin Ahmed  
-Assistant Professor & Head  
-Department of Electrical & Electrical Engineering  
-Metropolitan University, Sylhet  
-
-==============================  
-
-Submitted by:
-1. Rahat Hossain (252-115-055)
-2. Nabeel Ahmed (252-115-095)
-3. Ashraf Hussain Shafi (252-115-096)
-4. Nazmul Haque Sifat (252-115-099)
-
-==============================  
+<div align="center">
 
 
-Batch: CSE-63  
+---
+
+### *Physics Assignment*  
+### *Assignment On Problem Solving with Programming*
+
+*Course Title:* Physics II
+*Course Code:* PHY 123 
+
+---
+
+### *Submitted to*  
+## *Safwan Uddin Ahmed*  
+Assistant Professor & Head
+Department of Electrical & Electronic Engineering
+Metropolitan University, Sylhet
+
+---
+
+### *Submitted by*  
+*Rahat Hossain*  
+ID : 252-115-055  
+
+*Nabeel Ahmed*  
+ID : 252-115-095
+
+*Ashraf Hussain Shafi*  
+ID : 252-115-096
+
+*Nazmul Haque Sifat*  
+ID : 252-115-99  
+
+Batch: CSE – 63rd  
 Section: B  
-Department: Computer Science & Engineering  
 
-==============================  
+---
 
-Submission Date: 4 December 2025  
+Department of Computer Science and Engineering  
+*Metropolitan University, Sylhet*
+
+---
+
+### *Submission Date:*  
+*4 December 2025*
+
+</div>
