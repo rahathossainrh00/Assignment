@@ -1,0 +1,53 @@
+ 
+        *{
+            margin: 5px;
+            font-family: sans-serif;
+        }
+        
+        
+        .header{
+            background-color: white;
+            font-weight: bold;
+            border-radius: 15px;
+            list-style: none;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        .list{
+            list-style-type: none;
+            text-align: right;
+        }
+
+        .list li{
+            display: inline-block;
+        }
+        
+        .list a{
+            color: black;
+            text-decoration: none;
+        }
+
+        .intro{
+            background-color: white;
+            border-radius: 15px;
+            margin-bottom: 20px;
+            height: fit-content;
+            padding: 40px;
+        }
+        .intro a{
+            color: white;
+            text-decoration: none;
+        }
+
+        
+        #project{
+            font-size: smaller;
+            background-color: black;
+            color: white;
+            padding: 7px;
+            width: fit-content;
+            border-radius: 5px;
+            margin-top: 20px;
+
+        }
