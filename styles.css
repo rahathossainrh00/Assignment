@@ -1,0 +1,12 @@
+*{
+    margin: 10px;
+    font-family: sans-serif;
+}
+
+#sign-up{
+    background-color: #4e47ff;
+    padding: 10px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+}
